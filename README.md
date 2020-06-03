@@ -36,3 +36,4 @@ The following demonstrates the application functionality:
 
 https://matthew-neal.github.io/Random-Password-Generator/
 
+../PasswordGenerator.png
