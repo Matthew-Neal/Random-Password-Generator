@@ -32,9 +32,9 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-The following image demonstrates the application functionality:
+The following demonstrates the application functionality:
 
-![https://matthew-neal.github.io/Random-Password-Generator/](./Assets/03-javascript-homework-demo.png)
+![https://matthew-neal.github.io/Random-Password-Generator/]
 
 ## Review
 
