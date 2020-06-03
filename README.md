@@ -4,7 +4,7 @@ Create an application that generates a random password based on user-selected cr
 
 If you are unfamiliar with special characters, take a look at [some examples](https://www.owasp.org/index.php/Password_special_characters).
 
-## User Story
+## Usage 
 
 ```
 AS AN employee with access to sensitive data
@@ -34,15 +34,5 @@ THEN the password is either displayed in an alert or written to the page
 
 The following demonstrates the application functionality:
 
-![https://matthew-neal.github.io/Random-Password-Generator/]
+https://matthew-neal.github.io/Random-Password-Generator/
 
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
